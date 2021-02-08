@@ -7,7 +7,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/affisjunianto/botwasapv4
+> git clone https://github.com/Ahmadzakix/wabotv1
 ```
 
 ## Install the dependencies:

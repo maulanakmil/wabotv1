@@ -123,7 +123,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *XP* : ${getLevelingXp(sender)}/${reqXp} 
 ┣⊱ *Level* : ${getLevelingLevel(sender)}
 ┣⊱ *User register* : ${_registered.length}
-┗━━━⊱  ⸨ *AFFIS* ⸩  ⊰━━━━┛
+┗━━━⊱  ⸨ *AHMAD ZAKI* ⸩  ⊰━━━━┛
 
  *${prefix}info*
  *${prefix}donasi*
@@ -157,7 +157,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *${prefix}resepmasakan* <teks>
 ┣⊱ *${prefix}igstalk* <username>
 ┣⊱ *${prefix}bitly* <link>
-┣⊱ *${prefix}tiktok* <username>
+┣⊱ *${prefix}tiktok* <error>
 ┣⊱ *${prefix}ssweb* <link>
 ┣⊱ *${prefix}kbbi* <text>
 ┣━━⊱ *YT & SONG* ⊰━━━┫
@@ -216,14 +216,14 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣━━⊱ *THANGKS TO* ⊰━━┫
 ┃
 ┣⊱ *AFFIS JUNIANTO* <dev>
-┣⊱ *FADHIL GRAPHY* <partner>
+┣⊱ *Ahmad Zaki*   <Dev>
 ┣⊱ *MHANKBARBARS* <sc ori>
 ┣⊱ *MYBOT TEAM* <team>
 ┃
 ┣⊱ NOTE : TQTO DI HAPUS
 ┃ GW GAK UP LAGI OKE
 ┃
-┗━━⊱  ⸨ *X-BOT* ⸩  ⊰━━━━┛
+┗━━⊱  ⸨ *HLX-BOT* ⸩  ⊰━━━━┛
 `
 }
 

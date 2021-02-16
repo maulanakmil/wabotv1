@@ -13,15 +13,15 @@
   "keywords": [
     "k"
   ],
-  "author": "ahmad zaki",
+  "author": "Maulana Kamil",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ahmadzakix/wabotv1.git"
+    "url": "git+https://github.com/maulanakmil/wabotv1.git"
   },
   "bugs": {
-    "url": "https://github.com/Ahmadzakix/wabotv1.issues"
+    "url": "https://github.com/maulanakmil/wabotv1.issues"
   },
-"homepage": "https://github.com/Ahmadzakix/wabotv1/readme",
+"homepage": "https://github.com/maulanakmil/wabotv1/readme",
 "license": "ISC",
 "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
